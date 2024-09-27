@@ -56,5 +56,6 @@ Once the Basal Metabolic Rate (BMR) is calculated, it is multiplied by the user'
 - Include more activity level options.
 - Provide visual feedback or charts for calorie estimates.
 
-![Calorie Burn Calculator]("calorie calculator\image.png")
+![image](https://github.com/user-attachments/assets/a4911207-e069-49ea-9076-8f3a9a8c002c)
+
 
